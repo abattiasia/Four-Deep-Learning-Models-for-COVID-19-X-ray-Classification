@@ -19,3 +19,6 @@ The study used the following models for training and evaluation:
 4. **MobileNetV3**: MobileNetV3 is a lightweight, efficient architecture designed for mobile and edge devices, making it well-suited for environments with limited computational resources. It strikes a balance between model size and accuracy.
 
 Each model will be trained on the same pre-processed dataset, with hyperparameters such as learning rate and batch size optimized for each model. The dataset was split into training, validation, and test sets for robust evaluation.
+
+
+![image](https://github.com/user-attachments/assets/47a9bc74-b712-4258-821d-ee58ca79cc0d)
